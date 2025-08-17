@@ -1,3 +1,7 @@
 fastapi
 uvicorn
 yt-dlp
+python-telegram-bot==20.6
+httpx
+# optional for /test when you pass a search query (not needed if you always pass full URLs)
+youtubesearchpython
