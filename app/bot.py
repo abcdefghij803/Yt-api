@@ -49,7 +49,7 @@ async def start(update: Update, ctx: ContextTypes.DEFAULT_TYPE):
         "/stats — detailed status\n"
         "/enable /disable — maintenance toggle (admin)\n"
         "/test <url|query> — extract link and show\n"
-        "\nTip: /setapi https://ytx-1234.northflank.app"
+        "\nTip: /setapi https://ytx-1234.app"
     )
 
 async def setapi(update: Update, ctx: ContextTypes.DEFAULT_TYPE):
