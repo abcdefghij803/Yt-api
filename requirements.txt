@@ -3,4 +3,4 @@ uvicorn[standard]
 yt-dlp
 python-telegram-bot==20.3
 httpx
-youtubesearchpython
+youtube-search-python
